@@ -1,12 +1,12 @@
 {
-  "title": "List files",
-  "description": "Lesson 1: list files",
+  "title": "Beginner courses for learning how to work on a Linux system",
+  "description": "",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
     "steps": [
       {
-        "title": "First look on ls command",
+        "title": "Step 1",
         "text": "step1.md"
       },
       {
@@ -80,10 +80,6 @@
       {
         "title": "Step 19",
         "text": "step19.md"
-      },
-      {
-        "title": "Step 20",
-        "text": "step20.md"
       }
     ],
     "intro": {
@@ -93,9 +89,7 @@
       "text": "finish.md"
     }
   },
-  "environment": {
-    "uilayout": "terminal"
-  },
+  "environment": {},
   "backend": {
     "imageid": "ubuntu:2004"
   }
