@@ -1,4 +1,4 @@
-##What is ls?
+## What is ls?
 
 The first command we learn is `ls`. This is the `list` command. It allows us... list the content of the directory.
 

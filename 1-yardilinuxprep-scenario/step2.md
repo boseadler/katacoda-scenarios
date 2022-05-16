@@ -10,7 +10,9 @@ Before we learn how to get more details, there is a command we will run now, to 
 
 What does it do? Well, it clears the screen. How it works, doesn't matter for us, really.
 
-`The same you can achieve by running /bin/echo -e "\x1b\x5b\x48\x1b\x5b\x32\x4a\c" , but we can agree, that 'clear' is easier to remember!`
+<pre class="file">
+The same you can achieve by running /bin/echo -e "\x1b\x5b\x48\x1b\x5b\x32\x4a\c" , but we can agree, that 'clear' is easier to remember!
+</pre>
 Ok, let's finally learn more about ls. The command has multiple arguments we can add in order to change the output of the command.
 
 Now, important to understand. What we pass after the command - these are arguments. Not switches, parameters, etc. We can hear these names, but to learn how to work with Linux properly, we should name the elements with proper convention.
