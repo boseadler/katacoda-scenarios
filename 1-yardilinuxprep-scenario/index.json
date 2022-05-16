@@ -6,7 +6,7 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "1. First look on ls command",
         "text": "step1.md"
       },
       {

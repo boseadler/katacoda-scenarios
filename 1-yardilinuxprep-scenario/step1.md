@@ -1,5 +1,3 @@
-## 1. First look on ls command
-
 ##What is ls?
 
 The first command we learn is `ls`. This is the `list` command. It allows us... list the content of the directory.
@@ -22,6 +20,6 @@ So, this leads us to the first output, the colorized list of content. In order t
 
 or, alternatively for now
 
-`ls --color=auto`{{execute}} .
+`ls --color=auto`{{execute}}
 
 For now, it will be enough to say, this colorized option is added as default in one place in the system, we will go there in one of the future lessons.
